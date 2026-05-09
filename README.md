@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NightVision Guardian AI
 
 AI-Powered Intelligent Night Surveillance & Low-Light Object Detection Platform.
@@ -39,3 +40,7 @@ npm run dev
 ## Next Steps
 The core directory structure, database models, AI service integrations (YOLO, OpenCV, Gemini), and the frontend aesthetics have been scaffolded. 
 You can now build upon the FastAPI endpoints in `backend/routes/` and the React pages in `frontend/src/pages/`.
+=======
+# AI-BASED-LOW-LIGHT-OBJECT-DETECTION-WEB-PLATFORM-
+AI-Based Low Light Object Detection Web Platform is a full-stack AI application that enhances low-light images and detects objects using YOLOv8 and OpenCV. Built with React.js, FastAPI, and MySQL, the platform provides secure authentication, real-time object detection, AI-powered monitoring, detection history, and downloadable reports.
+>>>>>>> 7c74570710d5c565b69de4faf2c0a7954fb418da
