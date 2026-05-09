@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+ultralytics
+opencv-python
+reportlab
+pydantic
+pydantic-settings
+python-dotenv
+google-generativeai
